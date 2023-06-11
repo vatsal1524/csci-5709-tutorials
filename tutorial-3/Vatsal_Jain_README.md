@@ -1,110 +1,31 @@
-<!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Gabriella Mosquera for academic use ---> 
-<!--- You may delete any comments in this sample README.md file. If needing to use as a .txt file then simply delete all comments, edit as needed, and save as a README.txt file --->
+# Tutorial 3
 
-# Tutorial / Assignment / Project Title
-
-**[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
-
-* *Date Created*: DD MMM YYYY
-* *Last Modification Date*: DD MMM YYYY
-* *Lab URL*: <http://example.com/>
-* *Git URL*: <http://example.com/>
+- _Date Created_: 10 006 2023
+- _Last Modification Date_: 10 006 2023
+- _Git URL_: https://git.cs.dal.ca/vatsal/csci-5709-tutorials/-/tree/main/tutorial-3
 
 ## Authors
 
-**[Optional]** If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
-
-* [Name](email@dal.ca) - *(Role)*
-* [Name](email@dal.ca) - *(Role)*
-* [Name](email@dal.ca) - *(Role)*
-* [Name](email@dal.ca) - *(Role)*
-* [Name](email@dal.ca) - *(Role)*
-
+[Vatsal Jain](vt981557@dal.ca)
 
 ## Testing
 
-Briefly explain the process you went through to test your work. 
+### Briefly explain the process you went through to test your work.
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
+I have deployed the front-end application made using React on Netlfiy to test my work and tested all the possible edge cases.
 
 ## Deployment
 
-Add additional notes about how you deployed this work on a live system
+i have deployed my work on Netlify using a Github Repository. Here is the link of deployed webpage: https://main--zippy-gingersnap-fc65a6.netlify.app/
 
 ## Built With
 
-<!--- Provide a list of the frameworks used to build this application, your list should include the name of the framework used, the url where the framework is available for download and what the framework was used for, see the example below --->
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-**
+- [React](https://react.dev/) - Front-end framework used
 
 ## Sources Used
 
-If in completing your lab / assignment / project you used any interpretation of someone else's code, then provide a list of where the code was implement, how it was implemented, why it was implemented, and how it was modified. See the sections below for more details.
+I have used the following sources to get help in implementing this tutorial:
 
-### File Name
+https://plainenglish.io/blog/how-to-pass-data-between-pages-in-react-router-dom-v6
 
-*Lines ## - ##*
-
-```
-Copy and paste your code on lines mentioned 
-
-```
-
-The code above was created by adapting the code in [NAME](link) as shown below: 
-
-```
-Copy and paste the snippet of code you are referencing
-
-```
-
-- <!---How---> The code in [NAME](link) was implemented by...
-- <!---Why---> [NAME](link)'s Code was used because...
-- <!---How---> [NAME](link)'s Code was modified by...
-
-*Repeat as needed*
-
-### File Name
-
-*Lines ## - ##*
-
-```
-Copy and paste your code on lines mentioned 
-
-```
-
-The code above was created by adapting the code in [NAME](link) as shown below: 
-
-```
-Copy and paste the snippet of code you are referencing
-
-```
-
-- <!---How---> The code in [NAME](link) was implemented by...
-- <!---Why---> [NAME](link)'s Code was used because...
-- <!---How---> [NAME](link)'s Code was modified by...
-
-*Repeat as needed*
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+https://www.geeksforgeeks.org/how-to-develop-user-registration-form-in-reactjs/
